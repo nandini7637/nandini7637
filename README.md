@@ -2,9 +2,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=nandini7637&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p>Visitors:</p>
-
-<img src = "https://profile-counter.glitch.me/%7Bnandini7637%7D/count.svg">
+<img src = "https://visitor-badge.glitch.me/badge?page_id=nandini7637.visitor-badge">
 
 <!--
 **nandini7637/nandini7637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
