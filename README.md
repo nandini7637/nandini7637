@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-- 📫 How to reach me **nandiniagarwal243@gmail.com**
+- 📫 How to reach me:<br/>
+<a href="mailto:nandiniagarwal243@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/ag-nandini" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.twitter.com/Nandini__Ag" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/twitter-blue.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
 <img src = "https://github-readme-stats.vercel.app/api?username=nandini7637&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
