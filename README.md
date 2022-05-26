@@ -1,6 +1,6 @@
 
 <h1 align="left"> < Hello Coders🚀, I'm Nandini Agarwal<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
-<img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="ria-monga" height="400" />
+<img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="ria-monga" height="400"width="300"/>
 
 - 📫 How to reach me:<br/>
 <a href="mailto:nandiniagarwal243@gmail.com" style="text-decoration:none">
